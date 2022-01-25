@@ -1,0 +1,24 @@
+*{
+    margin:5px;
+    padding:10px;
+}
+.navbar{
+    display:flex;
+    text-align:center;
+    justify-content:center;
+    background-color: navajowhite;
+    flex-flow:row wrap;
+}
+.main{
+    display:flex;
+    flex-flow: row wrap;
+    justify-content:space-between;
+}
+body{
+    background-color:mediumvioletred;
+}
+.card{
+    border:2px solid black;
+    width:80px;
+    height:400px;
+}
